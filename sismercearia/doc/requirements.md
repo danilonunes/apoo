@@ -50,14 +50,14 @@
 6.3.4. O sistema envia os dados do cartão e parcelamento para a operadora de cartões.  
 6.3.5 A operadora envia o número de autorização.  
 
-**6.4. Pagamento com Pix** 
+**6.4. Pagamento com Pix**  
 6.4.1. O sistema solicita uma chave para pagamento a operadora de *pagamentos*.  
 6.4.2. O sistema exibe a chave para pagamento.   
 6.4.3. O cliente realiza o pagamento.  
 6.4.4. O operadora envia o número de autirização.  
 6.4.5. O sistema registra o pagamento.  
 
-**6.5. Pagamento com vale refeição**
+**6.5. Pagamento com vale refeição**  
 6.5.1. O cliente usa o cartão na interface de identificação.  
 6.5.2. O sistema envia os dados do cartão para a operadora de cartões.  
 6.5.3. A operadora envia o número de autorização. 
